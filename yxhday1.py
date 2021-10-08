@@ -54,6 +54,6 @@ print("皮草月销售量占比：百分之%.2f"%furrate)
 t_shirtrate=(63+45+129+63+58+48+63)/allsalesnum*100#T恤比率
 print("T恤月销售量占比：百分之%.2f"%t_shirtrate)
 shirtrate=(120)/allsalesnum*100#衬衫比率
-print("衬衫月销售量占比：百分之%d"%shirtrate)
+print("衬衫月销售量占比：百分之%.2f"%shirtrate)
 
 
